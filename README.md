@@ -1,5 +1,5 @@
 # Practica_GIT
-Prueba de repositorio
-"Hola mundo"
+Primera prueba de repositorio
+"Hola mundo primer modificacion"
 
 [Visita mi repositorio](https://github.com/Jaredfom0800/)
